@@ -1,3 +1,15 @@
+---
+> I persevere with a challenge until it no longer poses a difficulty.
+
+
+- 🚀 Hello, my name is Asiya. I am a programmer who has taught herself through learning.
+
+- 🌐 Currently, I am exploring the fields of AI and Blockchain driven by my interest, in cutting-edge technologies.
+
+- 💡 Proficient in Web Development, JavaScript, React.js, jQuery, Node.js, Express, APIs, Authentication and Security, SQL, PostgreSQL, MongoDB, Mongoose, and more.
+
+- 🤝 I'm eager to collaborate on compelling contractual projects. Let's transform ideas into reality – feel free to reach out and kickstart this journey together!
+
 <!-- ### Hi there 👋 -->
 
 <!--
@@ -14,15 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-> I persevere with a challenge until it no longer poses a difficulty.
-
-
-🚀 Hello, my name is Asiya. I am a programmer who has taught herself through learning.
-
-🌐 Currently, I am exploring the fields of AI and Blockchain driven by my interest, in cutting-edge technologies.
-
-💡 Proficient in Web Development, JavaScript, React.js, jQuery, Node.js, Express, APIs, Authentication and Security, SQL, PostgreSQL, MongoDB, Mongoose, and more.
-
-🤝 I'm eager to collaborate on compelling contractual projects. Let's transform ideas into reality – feel free to reach out and kickstart this journey together!
